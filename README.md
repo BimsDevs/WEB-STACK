@@ -1,4 +1,4 @@
 ## WEB-STACK
-  .### LAMP STACK
-  .### LEMP STACK
-  .### MERN STACK
+* ### LAMP STACK
+* ### LEMP STACK
+* ### MERN STACK
